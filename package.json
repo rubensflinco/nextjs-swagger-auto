@@ -1,9 +1,9 @@
 {
-    "name": "nextjs-routes-docs",
-    "version": "0.0.42",
+    "name": "nextjs-swagger-auto",
+    "version": "1.0.0",
     "description": "Generate docs for nextjs routes",
     "bin": {
-        "nextjs-routes-docs": "./index.js"
+        "nextjs-swagger-auto": "./index.js"
     },
     "scripts": {
         "test": "jest"
@@ -12,9 +12,21 @@
         "nextjs",
         "routes",
         "docs",
-        "swagger"
+        "swagger",
+        "mongoose"
     ],
-    "author": "Tedis Agolli <tedis@hey.com> (https://iamted.is)",
+    "authors": [
+        {
+            "name": "Rubens Flinco",
+            "email": "contato@rubensflinco.com.br",
+            "url": "https://rubensflinco.com.br"
+        },
+        {
+            "name": "Tedis Agolli",
+            "email": "tedis@hey.com",
+            "url": "https://iamted.is"
+        }
+    ],
     "license": "ISC",
     "dependencies": {
         "0g": "^0.0.6",
