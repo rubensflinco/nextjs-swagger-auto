@@ -1,4 +1,4 @@
-# NextJS Routes Docs
+# NextJS Routes Docs 
 
 Automatically generate Swagger Docs for your NextJS project.
 
