@@ -34,7 +34,8 @@
         "chalk": "^4.1.2",
         "commander": "^8.3.0",
         "js-yaml": "^4.1.0",
-        "recast": "^0.20.5"
+        "recast": "^0.20.5",
+        "replaceall": "^0.1.6"
     },
     "devDependencies": {
         "@types/jest": "^26.0.19",
